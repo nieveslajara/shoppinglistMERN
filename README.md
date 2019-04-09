@@ -3,7 +3,7 @@ MERN Stack to create a moder single-page app
 
 ### Testing API
 
-``` http://161.67.111.48:5000/api/todos ```
+``` http://localhost:5000/api/todos ```
 
 ### Dev dependencies
 
